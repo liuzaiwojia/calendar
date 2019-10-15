@@ -1,0 +1,25 @@
+/*
+ * @Author: liujia
+ * @Date: 2018-08-16 15:07:47
+ * @Last Modified by: liujia
+ * @Last Modified time: 2019-10-14 10:14:01
+ * @description: 通用的css样式
+ */
+ *{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  list-style: none;
+  outline: none;
+}
+html {
+  overflow-y: hidden;
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  min-width: 1500px;
+  color: #606266;
+  font-size: 14px;
+}
